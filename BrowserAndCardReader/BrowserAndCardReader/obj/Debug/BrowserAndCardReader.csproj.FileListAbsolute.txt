@@ -1,0 +1,8 @@
+C:\Users\Sky\Desktop\私活\BrowserAndCardReader\BrowserAndCardReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sky\Desktop\私活\BrowserAndCardReader\BrowserAndCardReader\obj\Debug\BrowserAndCardReader.Properties.Resources.resources
+C:\Users\Sky\Desktop\私活\BrowserAndCardReader\BrowserAndCardReader\obj\Debug\BrowserAndCardReader.csproj.GenerateResource.Cache
+C:\Users\Sky\Desktop\私活\BrowserAndCardReader\BrowserAndCardReader\bin\Debug\BrowserAndCardReader.exe
+C:\Users\Sky\Desktop\私活\BrowserAndCardReader\BrowserAndCardReader\bin\Debug\BrowserAndCardReader.pdb
+C:\Users\Sky\Desktop\私活\BrowserAndCardReader\BrowserAndCardReader\obj\Debug\BrowserAndCardReader.exe
+C:\Users\Sky\Desktop\私活\BrowserAndCardReader\BrowserAndCardReader\obj\Debug\BrowserAndCardReader.pdb
+C:\Users\Sky\Desktop\私活\BrowserAndCardReader\BrowserAndCardReader\obj\Debug\BrowserAndCardReader.MainFrm.resources

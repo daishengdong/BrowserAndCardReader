@@ -1,0 +1,8 @@
+C:\Users\Sky\Desktop\CardReader\CardReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sky\Desktop\CardReader\CardReader\obj\Debug\CardReader.Properties.Resources.resources
+C:\Users\Sky\Desktop\CardReader\CardReader\obj\Debug\CardReader.csproj.GenerateResource.Cache
+C:\Users\Sky\Desktop\CardReader\CardReader\obj\Debug\CardReader.MainFrm.resources
+C:\Users\Sky\Desktop\CardReader\CardReader\bin\Debug\CardReader.exe
+C:\Users\Sky\Desktop\CardReader\CardReader\bin\Debug\CardReader.pdb
+C:\Users\Sky\Desktop\CardReader\CardReader\obj\Debug\CardReader.exe
+C:\Users\Sky\Desktop\CardReader\CardReader\obj\Debug\CardReader.pdb
